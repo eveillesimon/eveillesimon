@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @eveillesimon but you can call me Simon
-- 👀 I’m interested in sciences, and i got quite good at computer sciences
+- 👀 I’m really interested in sciences, and i recently got quite good at computer sciences
 - 🌱 I’m currently learning web  development, bootstrap, javascript, etc.
 - 📫 To contact me, here is my mail: eveillesimon@gmail.com
 
