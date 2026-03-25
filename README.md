@@ -1,4 +1,4 @@
-Hi, I am Simon, a French IT engineer.
+Hi, I am Simon, a french engineer.
 
 <!---
 eveillesimon/eveillesimon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
